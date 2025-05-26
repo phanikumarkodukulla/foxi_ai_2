@@ -25,11 +25,8 @@ SECRET_KEY = 'django-insecure-s2brij!flv*e)==gtz-14mg-3f37#yroj_-9$7)b58)((qotl7
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = False
 
-ALLOWED_HOSTS = [
-    "127.0.0.1",
-    "localhost",
-    "foxe-ai-assistant.onrender.com",
-]
+ALLOWED_HOSTS = ['*']
+
 # Application definition
 
 INSTALLED_APPS = [
