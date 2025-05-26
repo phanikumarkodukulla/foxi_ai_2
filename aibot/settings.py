@@ -28,7 +28,7 @@ DEBUG = False
 ALLOWED_HOSTS = [
     "127.0.0.1",
     "localhost",
-    "foxe-ai.onrender.com",
+    "foxe-ai-assistant.onrender.com",
 ]
 # Application definition
 
